@@ -5,5 +5,5 @@ permalink: /dcclubs/
 ---
 # DCClubs
 
-![](/CapituloDCC/assets/construccion.png)
+![](/assets/construccion.png)
 

@@ -4,7 +4,7 @@ title: Acerca de nosotros
 ---
 
 # Capítulo ACM PUC
-![](/CapituloDCC/assets/capitulo_fondo.jpg)
+![](/assets/capitulo_fondo.jpg)
 
 
 **Facebook**: [https://www.facebook.com/acm.puc/](https://www.facebook.com/acm.puc/)

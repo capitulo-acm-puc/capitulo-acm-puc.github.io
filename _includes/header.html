@@ -1,19 +1,19 @@
 <header class="header">
     <h1>Capítulo ACM PUC</h1>
     <p>Página temporal para el Capítulo</p>
-    <img src="/CapituloDCC/assets/Capitulo.png" alt="">
+    <img src="/assets/Capitulo.png" alt="">
     <ul class="pages-links">
         {% for p in site.pages %}
             {% if p.title %}
             <li {% if page.url == p.url %} class="current-page" {% endif %}>
-                <a href= {{ "/CapituloDCC" | append: p.url }} ><strong>{{ p.title }}</strong></a>
+                <a href= {{ p.url }} ><strong>{{ p.title }}</strong></a>
             </li>
             {% endif %}
         {% endfor %}
     </ul>
     <select class="pages-links" onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
         {% for p in site.pages %}
-            <option value={{ "/CapituloDCC" | append: p.url }}>{{ p.title }}</option>
+            <option value={{ p.url }}>{{ p.title }}</option>
         {% endfor %}
     </select>
 

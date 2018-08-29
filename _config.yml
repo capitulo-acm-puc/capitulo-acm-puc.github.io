@@ -1,8 +1,6 @@
 title: Capítulo ACM PUC
 description: > # this means to ignore newlines until "baseurl:"
   Página temporal del Capítulo ACM PUC
-baseurl: "/CapituloDCC"
-url: "/CapituloDCC"
 github_username: Hernan4444
 
 # Build settings

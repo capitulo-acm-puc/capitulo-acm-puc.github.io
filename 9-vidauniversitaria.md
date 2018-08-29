@@ -12,7 +12,7 @@ permalink: /vida-universitaria/
 ## DCCCerro
 {% for i in (1..5) %}
                 
-<img src= "{{ "/CapituloDCC/assets/dccerro-" | append: i | append: ".jpeg"}}">
+<img src= "{{ "/assets/dccerro-" | append: i | append: ".jpeg"}}">
 
 
 {% endfor %}

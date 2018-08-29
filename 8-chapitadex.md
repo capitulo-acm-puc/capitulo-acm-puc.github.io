@@ -4,4 +4,4 @@ title: Chapitadex
 permalink: /chapitadex/
 ---
 # Chapitadex
-![](/CapituloDCC/assets/construccion.png)
+![](/assets/construccion.png)
