@@ -1,0 +1,59 @@
+.button-container {
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    height: 50px;
+    background-color: #ccc;
+    border-radius: 3px;
+}
+.github-button {
+    color: #eeeeee !important;
+    background-color: #444444;
+    border-radius: 4px;
+    display: table-cell;
+    height: inherit;
+    text-align: center;
+    text-decoration: none;
+    width: inherit;
+    vertical-align: middle;
+    -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.github-button::after {
+    content: "";
+    border-radius: 5px;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.github-button i {
+    position: relative;
+    top: 5px;
+}
+.github-button:hover {
+    -webkit-transform: scale(1.15, 1.15);
+    transform: scale(1.15, 1.15);
+}
+@media print, screen and (max-width:480px) {
+    .github-button {
+        -webkit-transition: none;
+        transition: none;
+    }
+    .github-button::after {
+        -webkit-transition: none;
+        transition: none;
+    }
+    .github-button:hover {
+        -webkit-transform: none;
+        transform: none;
+    }
+}
