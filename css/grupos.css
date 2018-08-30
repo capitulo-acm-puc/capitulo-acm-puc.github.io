@@ -1,3 +1,12 @@
+.grupo{
+  border: solid 2px;
+  padding: 5%;
+  border-radius: 10px;
+  margin-bottom: 3%;
+  background-color: #fcfcfc;
+}
+
+/* CSS de las imagenes */
 
 
 /* Position the image container (needed to position the left and right arrows) */
