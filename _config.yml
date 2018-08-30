@@ -15,3 +15,10 @@ defaults:
     values:
       image: true
 theme: jekyll-theme-minimal
+
+# Poner nombre del tema,cantidad de imagenes
+vida_universitaria:
+  - DCCerro,5
+  - Tarreo,12
+  # - torneo-programacion,16
+

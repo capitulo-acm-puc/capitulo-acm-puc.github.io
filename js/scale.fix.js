@@ -26,3 +26,37 @@ window.onload = function() {
         }
     }
 }
+
+temas_array = ["dccerro", "tarreo"];
+temas = {}
+
+temas_array.forEach(tema => {
+    temas[tema] = 1
+    showSlides(temas[tema], tema);
+});
+
+
+// Next/previous controls
+function plusSlides(n, imagen) {
+    showSlides(temas[imagen] += n, imagen);
+}
+
+// Thumbnail image controls
+function currentSlide(n, imagen) {
+    showSlides(temas[imagen] = n, imagen);
+}
+
+function showSlides(n, imagen) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides "+ imagen);
+
+    console.log(slides);
+
+    if (n > slides.length) {temas[imagen] = 1}
+    if (n < 1) {temas[imagen] = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+
+    slides[temas[imagen]-1].style.display = "block";
+}
