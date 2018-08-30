@@ -28,7 +28,7 @@ Grupo para organizar salidas a algún cerro junto a profesores y otros compañer
 
 <div class="grupo">
 
-# DCCalestenia
+# DCCalistenia
 Nos referimos como Calistenia a la idea de hacer ejercicio físico utilizando solo nuestro peso corporal. Es lo que se conoce típicamente como "hacer barras", a pesar de que ese es solo uno de una gran variedad de ejercicios. Como principal gracia es que no requieres de pesas o un sitio especializado para entrenar. Te basta con un par de paralelas y una barra; y aveces ni eso. Entrenar al aire libre junto a un grupo de personas de tu misma área dispuestos a ayudarte en cualquier problema de tu vida como camadería.
 
 ### Lugar de reunión
