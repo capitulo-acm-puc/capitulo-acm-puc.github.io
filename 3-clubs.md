@@ -9,7 +9,7 @@ permalink: /dcclubs/
 <div class="grupo">
 
 # Yoga en el DCC
-Nos juntamos (administrativos, profes, alumnos del DCC) una vez a la semana a hacer yoga. La profesora de yoga es financiada por el DCC.
+Yoga del DCC es una iniciativa financiada por el DCC en donde se juntan profesores, alumnos y administrativos a hacer una hora de yoga semanalmente. La práctica de yoga trae múltiples beneficios entre los cuales está disminución del estrés y balance emocional. ¿Qué necesitas? Solo tu entusiasmo, ropa cómoda y un mat de yoga.
 
 ### Hora y lugar de reunión
 En el DCC, horario por definir. Si estás interesado, puedes incluir tu preferencia de horario en el siguiente doodle: [https://doodle.com/poll/3gec8f9eur76bphc](https://doodle.com/poll/3gec8f9eur76bphc)
