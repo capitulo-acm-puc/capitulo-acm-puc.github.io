@@ -60,4 +60,8 @@ Grupo creado para reunir a todo aquel que le gusten los juegos y quiera comparti
 
 </div>
 
+## Propuestas de DCClubs
+Mira estas [propuestas](https://goo.gl/forms/oEixnTlNnyRQu1Sa2) de DCClubs. Registra tu interés y puede que estos grupos se formen!
+
+## ¿Nuevas ideas de DCClubs?
 ¿Tienes una propuesta de un nuevo DCClubs o quieres registrar un grupo ya existente? Puedes encontrar el formulario de inscripción [aquí](https://capitulo-acm-puc.github.io/formularios/).

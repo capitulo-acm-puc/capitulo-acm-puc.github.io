@@ -13,6 +13,9 @@ Inscribe tu DCClub oficial como parte del Capítulo ACM. Este se encargará de d
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgwlsj1cy8q_NkxZnxjOKE3X8GmpPuCUmEqIZoDfgu-x-s_w/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 
+# Propuestas de DCClubs
+Mira estas propuestas de DCClubs. Registra tu interés y puede que estos grupos se formen!
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfXoDH0oaH2JtrTrGfGAz-YLa2lBrUxOg9eN55z1HIQ9wHsUA/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 
 ## Quiosco
 
