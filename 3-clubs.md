@@ -12,7 +12,7 @@ permalink: /dcclubs/
 Nos juntamos (administrativos, profes, alumnos del DCC) una vez a la semana a hacer yoga. La profesora de yoga es financiada por el DCC.
 
 ### Hora y lugar de reunión
-Por definir, si estás interesado, puedes incluir tu preferencia de horario en el siguiente doodle: [https://doodle.com/poll/3gec8f9eur76bphc](https://doodle.com/poll/3gec8f9eur76bphc)
+En el DCC, horario por definir. Si estás interesado, puedes incluir tu preferencia de horario en el siguiente doodle: [https://doodle.com/poll/3gec8f9eur76bphc](https://doodle.com/poll/3gec8f9eur76bphc)
 
 </div>
 
@@ -59,3 +59,5 @@ Grupo creado para reunir a todo aquel que le gusten los juegos y quiera comparti
 **Telegram**: [https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog](https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog)
 
 </div>
+
+¿Tienes una propuesta de un nuevo DCClubs o quieres registrar un grupo ya existente? Puedes encontrar el formulario de inscripción [https://capitulo-acm-puc.github.io/formularios/](aquí).
