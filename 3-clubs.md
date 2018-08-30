@@ -8,11 +8,11 @@ permalink: /dcclubs/
 
 <div class="grupo">
 
-# DCConsola
-Grupo creado para reunir a todo aquel que le gusten los juegos y quiera compartir su opinión o buscar a otros jugadores para las partidas donde se requieren más jugadores como League of Legend, Age of Empire, Etc.
+# Yoga en el DCC
+Nos juntamos (administrativos, profes, alumnos del DCC) una vez a la semana a hacer yoga. La profesora de yoga es financiada por el DCC.
 
-### Medio de comunicación
-**Telegram**: [https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog](https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog)
+### Hora y lugar de reunión
+Por definir, si estás interesado, puedes incluir tu preferencia de horario en el siguiente doodle: [https://doodle.com/poll/3gec8f9eur76bphc](https://doodle.com/poll/3gec8f9eur76bphc)
 
 </div>
 
@@ -32,12 +32,13 @@ Grupo para organizar salidas a algún cerro junto a profesores y otros compañer
 Nos referimos como Calistenia a la idea de hacer ejercicio físico utilizando solo nuestro peso corporal. Es lo que se conoce típicamente como "hacer barras", a pesar de que ese es solo uno de una gran variedad de ejercicios. Como principal gracia es que no requieres de pesas o un sitio especializado para entrenar. Te basta con un par de paralelas y una barra; y aveces ni eso. Entrenar al aire libre junto a un grupo de personas de tu misma área dispuestos a ayudarte en cualquier problema de tu vida como camadería.
 
 ### Lugar de reunión
-Barras amarillas al lado de la piscina
+Barras amarillas al lado de la piscina del campus San Joaquín, PUC.
 
 ### Medio de comunicación
 **Telegram**: [https://t.me/joinchat/DPHwIkkZHXb0l3cN0hSMig](https://t.me/joinchat/DPHwIkkZHXb0l3cN0hSMig)
 
 </div>
+
 
 <div class="grupo">
 
@@ -49,13 +50,12 @@ Grupo dedicado al juego Pokemon Go. Se comparten tips, anuncios de eventos, apar
 
 </div>
 
-
 <div class="grupo">
 
-# Yoga en el DCC
-Nos juntamos (administrativos, profes, alumnos del DCC) una vez a la semana a hacer yoga. La profesora de yoga es financiada por el DCC.
+# DCConsola
+Grupo creado para reunir a todo aquel que le gusten los juegos y quiera compartir su opinión o buscar a otros jugadores para las partidas donde se requieren más jugadores como League of Legend, Age of Empire, Etc.
 
-### Hora y lugar de reunión
-Por definir, si estás interesado, puedes incluir tu preferencia de horario en el siguiente doodle: []()
+### Medio de comunicación
+**Telegram**: [https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog](https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog)
 
 </div>
