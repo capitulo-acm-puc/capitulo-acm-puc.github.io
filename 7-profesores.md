@@ -6,9 +6,10 @@ permalink: /profesores/
 ---
 # Profesores
 
+- Marcelo Arenas: [página personal](http://marenas.sitios.ing.uc.cl/) y [página de la univerisidad](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/)
+- Jorge Baier: [página personal](http://saturno.ing.puc.cl/jorge/) y [página de la univerisidad](https://www.ing.uc.cl/academicos-e-investigadores/jorge-andres-baier-aranda/)
 
-- [Marcelo Arenas](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/)
-- [Jorge Baier](https://www.ing.uc.cl/academicos-e-investigadores/jorge-andres-baier-aranda/)
+
 - [Yadran Eterovic](https://www.ing.uc.cl/academicos-e-investigadores/yadran-francisco-eterovic-solano/)
 - [Ignacio Casas](https://www.ing.uc.cl/academicos-e-investigadores/ignacio-antonio-casas-raposo/)
 - [Valeria Herskovic](https://www.ing.uc.cl/academicos-e-investigadores/valeria-paz-herskovic-maida/)
