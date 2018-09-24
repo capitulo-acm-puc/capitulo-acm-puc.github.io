@@ -8,9 +8,13 @@ permalink: /dcseminario/
 
 ## ¿Qué es?
 
+DCSeminario busca acercar la **investigación** realizada por **alumnos** de postgrado en el Departamento de Ciencia de la Computación PUC a alumnos de **pregrado** y cualquier interesado en conocer que problemas y temas se trabajan en el departamento por sus mismos estudiantes. En breves charlas realizadas por alumnos de postgrado, darán a conocer sus temas de investigación y sus experiencias trabajando en ellos. DCSeminario es una inicitativa impulsada por el Capítulo ACM PUC.
 
-## ¿Cuándo?
+Estas sesiones se acompañan de comida para sus asistentes, y una chapita de edición limitada del evento. ¡No se pierdan la suya!
 
+## ¿Cuándo y dónde?
+
+El primer DCSeminario se realizará el martes 2 de octubre, de 15:30 a 17:00, en una sala por confirmar.
 
 ## Lineup DCSeminario #1
 
