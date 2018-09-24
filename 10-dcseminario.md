@@ -4,6 +4,9 @@ title: DCSeminario
 permalink: /dcseminario/
 ---
 {::options parse_block_html="true" /}
+
+![](/assets/dcseminario.png)
+
 # DCSeminario
 
 ## ¿Qué es?
