@@ -19,7 +19,7 @@ permalink: /dcseminario/
 ### Franco Muñoz
 Estudiante de magíster, bajo la tutela del profesor Jorge Baier.
 
-**Tema**:  Búsqueda en tiempo real con inteligencia artificial
+**Título**:  Búsqueda en tiempo real con inteligencia artificial
 
 #### Resumen
 
@@ -31,9 +31,13 @@ En esta presentación se hace una breve introducción al problema de búsqueda e
 ### Geraldine Monsalve
 Estudiante de magíster, bajo la tutela del profesor Juan Reutter.
 
-**Tema**: 
+**Título**: Protocolos de generación de llaves Excalibur para una jerarquía de desencriptación DAG para múltiples participantes
 
 #### Resumen
+
+Un sistema de llaves con desencriptación jerárquica considera el siguiente escenario: Bob es empleado de Alice y le gustaría que Alice pueda acceder y desencriptar sus mensajes sin necesidad de revelar su llave secreta. La desencriptación jerárquica propone otorgarle a Alice la capacidad de desencriptar mensajes dirigidos a Bob, sin la capacidad de suplantarlo.
+
+Revisaremos tópicos relevantes involucrados en esta tesis: tales como la encriptación de llave pública o protocolos de computación de múltiples participantes MPC.
 
 </div>
 <div class="lineup">
@@ -41,7 +45,7 @@ Estudiante de magíster, bajo la tutela del profesor Juan Reutter.
 ### Adrían Soto
 Estudiante de doctorado, bajo la tutela del profesor Juan Reutter.
 
-**Tema**: Extensiones del lenguaje de consulta SPARQL
+**Título**: Extensiones del lenguaje de consulta SPARQL
 
 #### Resumen
 
