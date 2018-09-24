@@ -5,7 +5,7 @@ permalink: /dcseminario/
 ---
 {::options parse_block_html="true" /}
 
-![](/assets/dcseminario.jpeg)
+<!-- ![](/assets/dcseminario.jpeg) -->
 
 # DCSeminario
 
