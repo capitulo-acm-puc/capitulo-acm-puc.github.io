@@ -49,7 +49,7 @@ Revisaremos tópicos relevantes involucrados en esta tesis: tales como la encrip
 </div>
 <div class="lineup">
 
-### Adrían Soto
+### Adrián Soto
 Estudiante de doctorado, bajo la tutela del profesor Juan Reutter.
 
 **Título**: Extensiones del lenguaje de consulta SPARQL
