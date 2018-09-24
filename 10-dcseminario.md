@@ -17,7 +17,7 @@ Estas sesiones se acompañan de comida para sus asistentes, y una chapita de edi
 
 ## ¿Cuándo y dónde?
 
-El primer DCSeminario se realizará el **martes 2 de octubre, de 15:30 a 17:00**, en una **sala por confirmar**.
+El primer DCSeminario se realizará el **martes 2 de octubre, de 15:30 a 16:50**, en la **sala B25, de Ingeniería**.
 
 ## Lineup DCSeminario #1
 
