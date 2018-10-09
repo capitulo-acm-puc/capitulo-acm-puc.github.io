@@ -32,6 +32,8 @@ Estudiante de magíster, bajo la tutela del profesor Jorge Baier.
 
 En esta presentación se hace una breve introducción al problema de búsqueda en tiempo real en entorno desconociodo. En particular, se revisa el problema de pathfinding en situaciones en las que se quiere llevar a un agente desde un punto de inicio a un objetivo, pero no se conocen los obstáculos. En estas situaciones el algoritmo usado debe ser capaz de adaptarse según los obstáculos que se van encontrando durante la ejecución. Además, presento brevemente mi investigación que consiste en hacer uso de redes neuronales para obtener mejores soluciones en este problema.
 
+**Diapositivas**: ![](/assets/diapos_franco.pdf)
+
 </div>
 <div class="lineup">
 
