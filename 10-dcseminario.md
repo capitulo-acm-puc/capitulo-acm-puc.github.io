@@ -48,6 +48,8 @@ Un sistema de llaves con desencriptación jerárquica considera el siguiente e
 
 Revisaremos tópicos relevantes involucrados en esta tesis: tales como la encriptación de llave pública o protocolos de computación de múltiples participantes MPC.
 
+[**Diapositivas**](/assets/diapos_geraldine.pdf)
+
 </div>
 <div class="lineup">
 
@@ -59,4 +61,7 @@ Estudiante de doctorado, bajo la tutela del profesor Juan Reutter.
 #### Resumen
 
 En la charla voy a hablar sobre el lenguaje de consulta de la web semántica, SPARQL. Si bien este lenguaje lleva varios años siendo utilizado, aún hay funcionalidades que son deseables tener y no son parte del estándar. Una es la adición de una funcionalidad recursiva, y la otra es poder consultar datos que son parte de la web que no necesariamente están en RDF, el formato de la web semántica. En la charla mostraré por qué estas dos funcionalidades son necesarias y las soluciones que hemos propuesto para incorporarlas a SPARQL, modificando un motor de bases de datos para añadir las funcionalidades. Ambas soluciones se han publicado en las dos conferencias más grandes del área de Web Semántica, ISWC y ESWC.
+
+[**Diapositivas**](/assets/diapos_adrian.pdf)
+
 </div>
