@@ -17,9 +17,59 @@ Estas sesiones se acompañan de comida para sus asistentes, y una chapita de edi
 
 ## ¿Cuándo y dónde?
 
-El primer DCSeminario se realizará el **martes 2 de octubre, de 15:30 a 16:50**, en la **sala B25, de Ingeniería**.
+El segundo DCSeminario se realizará el **martes 23 de octubre, de 15:30 a 17:00**, en el **Auditorio San Agustín, primer piso del edificio San Agustín de Ingeniería (entrada de Campus San Joaquín)**.
+
+## Lineup DCSeminario #2
+
+<div class="lineup">
+
+### Javiera Astudillo
+Estudiante de magíster, bajo la tutela del profesor Karim Pichara.
+
+**Título**: Aprendizaje de Máquinas para selección de candidatos informativos en datos astronómicos
+
+#### Resumen
+
+¿Cómo aprender patrones automáticamente a partir de los datos? Este es uno de los objetivos de Aprendizaje de Máquinas. Por medio de diversas herramientas estadísticas es posible desarrollar modelos que permitan regresionar o clasificar datos. En la primera parte de esta charla se abordará a grandes rasgos los objetivos y técnicas usadas en ML. En la segunda, se presentará el tema de investigación, que consiste en selección de candidatos más atractivos en cuanto a contenido de información. Lo último aplicado sobre series de tiempo y espectros astronómicos. La solución propuesta emplea mezclas de *gaussianas*, *autoencoders* variacionales y clasificadores del tipo *random forest*.
+
+<!-- [**Diapositivas**](/assets/diapos_franco.pdf) -->
+
+</div>
+<div class="lineup">
+
+### Julio Hurtado
+Estudiante de doctorado, bajo la tutela del profesor Alvaro Soto.
+
+**Título**: Combatiendo *Catastrophic Forgetting* con máscaras aprendidas
+
+
+#### Resumen
+
+En los últimos años, los modelos de *deep learning* han tenido un gran impacto en los avances que se han realizado en diferentes áreas del conocimiento, superando el estado del arte en contextos como visión por computador y procesamiento de texto, generando soluciones a problemas de ingeniería, medicina e incluso ciencias básicas. Técnicas como transferencia del conocimiento han ayudado que estos modelos pueda traspasar lo aprendido de un contexto a otro, superando el problema de la escasez de datos en algunos casos. Pero estas técnicas no están exentas de problemas, en esta presentación vamos a hablar de uno de estos problemas conocido como *Catastrophic Forgetting* y de la investigación que estamos desarrollando para enfrentar dicho problema.
+
+<!-- [**Diapositivas**](/assets/diapos_geraldine.pdf) -->
+
+</div>
+<div class="lineup">
+
+### Fernando Florenzano
+Estudiante de magíster, bajo la tutela del profesor Juan Reutter.
+
+**Título**: Visualizador de RDF, algoritmos de Extracción de Información y definiendo restricciones sobre grafos.
+
+#### Resumen
+
+Para cerrar esta versión de DCSeminario, les contaré sobre distintas experiencias de investigación de pregrado y postgrado, para darles una perspectiva de sus distintas formas y alternativas. En particular, les contaré mis propias experiencias con trabajos de investigación en pregrado y en postgrado. Les hablaré de 3 trabajos distintos, a los cuales llegué por caminos diferentes, las desarrollé de formas muy distintas y obtuve resultados distintos. La primera fue el desarrollo de una herramienta de visualización para un problema de bases de datos RDF, la segunda es un trabajo teórico algorítmico que trabaja con autómatas en Extracción de Información y el tercero es el análisis del lenguaje de restricciones SHACL sobre bases de datos RDF.
+
+Mi intención con esta charla es darles una idea de que investigaciones pueden hacer y que oportunidades pueden aprovechar con los cursos que están ya realizando. Y ojalá motivarlos a que se acerquen a algún profesor para que ustedes mismos trabajen en su propio desarrollo y ganen competencias fuera de los cursos de la universidad.
+
+<!-- [**Diapositivas**](/assets/diapos_adrian.pdf) -->
+
+</div>
 
 ## Lineup DCSeminario #1
+
+El primer DCSeminario se realizó el **martes 2 de octubre, de 15:30 a 16:50**, en la **sala B25, de Ingeniería**.
 
 <div class="lineup">
 
