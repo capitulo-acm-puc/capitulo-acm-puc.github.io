@@ -161,19 +161,19 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
   
  <div class="grupo">
 ## Drive con los Cursos del DCC
-**Link**:  https://drive.google.com/drive/folders/0B04ryZ6JtcjwOWpoR1Q4QVdCYUU
+**Link**: [Click acá](https://drive.google.com/drive/folders/0B04ryZ6JtcjwOWpoR1Q4QVdCYUU)
 </div>  
   
 <div class="grupo">
 ## DCComentarios
 Planilla con comentarios sobre los cursos
-**Link**:  https://docs.google.com/spreadsheets/d/1z2K-a6hD_Xck_R_BXM9e_-rmx8G7c08fc9FcsgVe0M8/edit?usp=sharing
+**Link**:  [Click acá](https://docs.google.com/spreadsheets/d/1z2K-a6hD_Xck_R_BXM9e_-rmx8G7c08fc9FcsgVe0M8/edit?usp=sharing)
 </div>  
   
 <div class="grupo">
 ## DCCEmpleo
 Tu próximo trabajo/empleado te espera acá!
-**Link**:  https://t.me/DCCEmpleo
+**Link**:  [Click acá](https://t.me/DCCEmpleo)
 </div>  
  
  
