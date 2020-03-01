@@ -57,6 +57,13 @@ Canal oficial para los alumnos y profesores del Departamento de la Ciencia de la
 # Civil Computación
 Grupo para alumnos que desean ir por el título de Civil Computación
 
+<div class="grupo">
+
 **Link**: [https://t.me/joinchat/EhZ0Igo3nTwVAR5zkRnGBw](https://t.me/joinchat/EhZ0Igo3nTwVAR5zkRnGBw)
+</div>
 
 </div>
+
+
+
+
