@@ -63,33 +63,32 @@ Grupo para hablar de cualquier cosa random y poder mandar mensajes de forma anó
 ## DCConfesiones-adminless:
 Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 
-**Link**: [https://t.me/DCConfesionesAdminless](https://t.me/DCConfesionesAdminless)
+[**Link**](https://t.me/DCConfesionesAdminless)
 </div>
 
 </div>
 
 <div class="grupo">
-  
  # Grupos por ramo
  
 <div class="grupo">
 ## IC3745 Testing
-**Link**: https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q
+[**Link**](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
 </div>
   
 <div class="grupo">
 ## IIC2523 Sistemas Distribuidos
-**Link**: https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow
+[**Link**](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
 </div>
 
 <div class="grupo">
 ## IIC2143 Ingeniería de Software
-**Link**: https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w
+[**Link**](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
 </div>
 
 <div class="grupo">
 ## IIC2513 [Web] Tecnologías y Aplicaciones Web
-**Link**: https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw
+[**Link**](https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw)
 </div>
 
 <div class="grupo">
