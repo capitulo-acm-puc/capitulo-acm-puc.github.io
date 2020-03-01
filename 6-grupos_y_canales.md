@@ -72,50 +72,53 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 # Grupos por ramo
  
 <div class="grupo">
-[## IC3745 Testing](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
+## IC3745 Testing
+[Link acá](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
 </div>
   
 <div class="grupo">
-[## IIC2523 Sistemas Distribuidos](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
+## IIC2523 Sistemas Distribuidos
+[Link acá](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
 </div>
 
 <div class="grupo">
-[## IIC2143 Ingeniería de Software](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
+## IIC2143 Ingeniería de Software
+[Link acá](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
 </div>
 
 <div class="grupo">
 ## IIC2513 [Web] Tecnologías y Aplicaciones Web
-[**Link**](https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw)
+[Link acá](https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw)
 </div>
 
 <div class="grupo">
 ## IIC1253 Matemáticas Discretas
-**Link**: https://t.me/joinchat/JuS14VWyuWFoqMBT8IU-rQ
+[Link acá](https://t.me/joinchat/JuS14VWyuWFoqMBT8IU-rQ)
 </div>
   
 <div class="grupo">
 ## IIC2433 Minería de Datos
-**Link**: https://t.me/joinchat/HFM3CU8fPzKJeS42CG6QKw
+[Link acá](https://t.me/joinchat/HFM3CU8fPzKJeS42CG6QKw)
 </div> 
 
 <div class="grupo">
 ## IIC3633 [RecSys] Sistemas Recomendadores
-**Link**: https://t.me/joinchat/HFM3CRUa1uhQWazhkjaXQw
+[Link acá](https://t.me/joinchat/HFM3CRUa1uhQWazhkjaXQw)
 </div> 
  
 <div class="grupo">
 ## IIC2133 [EDD] Estructuras de Datos y Algoritmos
-**Link**: https://t.me/joinchat/GcQjGBdwpDoTKT1O1dHQuw
+[Link acá](https://t.me/joinchat/GcQjGBdwpDoTKT1O1dHQuw)
 </div> 
 
 <div class="grupo">
 ## IIC2283 Grupo de Diseño y Análisis de Algoritmos
-**Link**: https://t.me/joinchat/GjG-PRbCNy2kUnfwbiRVgg
+[Link acá](https://t.me/joinchat/GjG-PRbCNy2kUnfwbiRVgg)
 </div> 
 
 <div class="grupo">
 ## IIC2343 Arquitectura de Computadores 
-**Link**: https://t.me/joinchat/KOKrZhT8EVZK5CNmxWZfTg
+[Link acá](https://t.me/joinchat/KOKrZhT8EVZK5CNmxWZfTg)
 </div> 
   
 <div class="grupo">
