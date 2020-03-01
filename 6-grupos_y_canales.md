@@ -62,8 +62,8 @@ Grupo para hablar de cualquier cosa random y poder mandar mensajes de forma anó
 <div class="grupo">
 ## DCConfesiones-adminless:
 Advertencia, el grupo permite confesiones de todo tipo, sin censura.
+**Link**: [https://t.me/DCConfesionesAdminless](https://t.me/DCConfesionesAdminless)
 
-[**Link**](https://t.me/DCConfesionesAdminless)
 </div>
 
 </div>
@@ -123,32 +123,32 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
   
 <div class="grupo">
 ## IIC2333 [SSOO] Sistemas operativos y redes
-**Link**: https://t.me/joinchat/GjG-PRPFPZOVG2MNQus0-Q
+[Link acá](https://t.me/joinchat/GjG-PRPFPZOVG2MNQus0-Q)
 </div>   
   
 <div class="grupo">
 ## IIC2223 [Autómatas]	Teoría de Autómatas y Lenguajes Formales
-**Link**: https://t.me/joinchat/CogUgBTfxRlZRxWOwze7Sw
+[Link acá](https://t.me/joinchat/CogUgBTfxRlZRxWOwze7Sw)
 </div> 
 
 <div class="grupo">
 ## IIC2613 [IA] Inteligencia Artificial
-**Link**: https://t.me/joinchat/GjG-PRPjOUuL35-amWV0GQ
+[Link acá](https://t.me/joinchat/GjG-PRPjOUuL35-amWV0GQ)
 </div> 
  
 <div class="grupo">
 ## IIC2173 Arquitectura de Sistemas de Software
-**Link**: https://t.me/joinchat/GeR-5BX3vfvsGXdJKyl-cg
+[Link acá](https://t.me/joinchat/GeR-5BX3vfvsGXdJKyl-cg)
 </div> 
 
 <div class="grupo">
 ## [DDS] Diseño Detallado de Software
-**Link**: https://t.me/joinchat/GeR-5BUmKQlmmH-Rus8tCA
+[Link acá](https://t.me/joinchat/GeR-5BUmKQlmmH-Rus8tCA)
 </div> 
 
 <div class="grupo">
 ## IC2026	[Infovis] Visualización de Información
-**Link**: https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA
+[Link acá](https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA)
 </div> 
  
 
