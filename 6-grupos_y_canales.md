@@ -69,21 +69,18 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div>
 
 <div class="grupo">
- # Grupos por ramo
+# Grupos por ramo
  
 <div class="grupo">
-## IC3745 Testing
-[**Link**](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
+[## IC3745 Testing](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
 </div>
   
 <div class="grupo">
-## IIC2523 Sistemas Distribuidos
-[**Link**](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
+[## IIC2523 Sistemas Distribuidos](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
 </div>
 
 <div class="grupo">
-## IIC2143 Ingeniería de Software
-[**Link**](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
+[## IIC2143 Ingeniería de Software](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
 </div>
 
 <div class="grupo">
