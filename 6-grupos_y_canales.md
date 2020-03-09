@@ -150,7 +150,22 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 ## IC2026	[Infovis] Visualización de Información
 [Link acá](https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA)
 </div> 
- 
+
+<div class="grupo">
+## IIC3113 [GPTI] Gestión de Proyectos de Tecnologías de Información
+[Link acá](https://t.me/joinchat/HFM3CUszyPvogelRRouckA)
+</div>
+
+<div class="grupo">
+## EYP2114 Inferencia Estadística
+[Link acá](https://t.me/joinchat/HFM3CU8a2Yd1KIdoWCegzQ)
+</div> 
+
+
+<div class="grupo">
+## IIC2154 [Capstone] Proyecto de Especialidad
+[Link acá](https://t.me/joinchat/HFM3CUszyPvogelRRouckA)
+</div> 
 
 </div>
 
