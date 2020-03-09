@@ -153,7 +153,7 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 
 <div class="grupo">
 ## IIC3113 [GPTI] Gestión de Proyectos de Tecnologías de Información
-[Link acá](https://t.me/joinchat/HFM3CUszyPvogelRRouckA)
+[Link acá](https://t.me/joinchat/HFM3CU8X1aGKJoSp3rTxlA)
 </div>
 
 <div class="grupo">
@@ -166,6 +166,15 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 ## IIC2154 [Capstone] Proyecto de Especialidad
 [Link acá](https://t.me/joinchat/HFM3CUszyPvogelRRouckA)
 </div> 
+
+
+<div class="grupo">
+## IIC3143 Desarrollo de Software
+[Link acá](https://t.me/joinchat/Mr57shhLwKBhnPRiFwNbqg)
+</div> 
+
+
+
 
 </div>
 
