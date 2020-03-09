@@ -142,7 +142,7 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div> 
 
 <div class="grupo">
-## [DDS] Diseño Detallado de Software
+## IIC2113 [DDS] Diseño Detallado de Software
 [Link acá](https://t.me/joinchat/GeR-5BUmKQlmmH-Rus8tCA)
 </div> 
 
