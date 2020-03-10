@@ -173,6 +173,17 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/Mr57shhLwKBhnPRiFwNbqg)
 </div> 
 
+<div class="grupo">
+## IIC2213 [Lógica] Lógica para Ciencias de la Computación
+[Link acá](https://t.me/joinchat/GjG-PRasCDP72Wj_3rL2TQ)
+</div> 
+
+
+<div class="grupo">
+## IIC3253 [Cripto] Criptografía y Seguridad Computacional
+[Link acá](https://t.me/joinchat/GjG-PRsRo9s53PTsTh6NOg)
+</div> 
+
 
 
 
