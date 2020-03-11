@@ -93,7 +93,7 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 
 <div class="grupo">
 ## IIC1253 Matemáticas Discretas
-[Link acá](https://t.me/joinchat/JuS14VWyuWFoqMBT8IU-rQ)
+[Link acá](https://t.me/joinchat/H0vd5xE-2PKI9HmjLvl6PQ)
 </div>
   
 <div class="grupo">
