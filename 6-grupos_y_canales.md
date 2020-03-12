@@ -184,6 +184,10 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/GjG-PRsRo9s53PTsTh6NOg)
 </div> 
 
+<div class="grupo">
+## IEE3724 o IIC3724 Reconocimiento de Patrones
+[Link acá](https://t.me/joinchat/CLF1HRhLmmYM0lH5sN6pQQ)
+</div>
 
 
 
