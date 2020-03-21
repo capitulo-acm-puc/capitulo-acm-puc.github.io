@@ -185,8 +185,13 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div> 
 
 <div class="grupo">
-## IEE3724 o IIC3724 Reconocimiento de Patrones
+## IIC3724 o IEE3724 Reconocimiento de Patrones
 [Link acá](https://t.me/joinchat/CLF1HRhLmmYM0lH5sN6pQQ)
+</div>
+
+<div class="grupo">
+## IIC2413 Bases de Datos
+[Link acá](https://t.me/joinchat/NAyiyxXp15kdMkanAN5eJg)
 </div>
 
 
