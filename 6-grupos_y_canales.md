@@ -194,6 +194,11 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/NAyiyxXp15kdMkanAN5eJg)
 </div>
 
+<div class="grupo">
+## IIC2764 [CCT] Conocimiento, Cultura y Tecnología
+[Link acá](https://t.me/joinchat/LApw1hqrFxxOMvdWUylCYA)
+</div>
+
 
 
 </div>
