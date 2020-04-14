@@ -201,6 +201,15 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 
 
 
+<div class="grupo">
+## IIC3697 [Deep Learning - DL] Aprendizaje Profundo
+[Link acá](https://t.me/joinchat/ILQXqhO8Q0rkkxCk_yngsw)
+</div>
+
+
+
+
+
 </div>
 
 
