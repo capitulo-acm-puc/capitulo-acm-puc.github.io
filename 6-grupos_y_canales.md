@@ -200,7 +200,6 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div>
 
 
-
 <div class="grupo">
 ## IIC3697 [Deep Learning - DL] Aprendizaje Profundo
 [Link acá](https://t.me/joinchat/ILQXqhO8Q0rkkxCk_yngsw)
@@ -208,6 +207,10 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 
 
 
+<div class="grupo">
+## IIC2714 o IEE2714 Fundamentos de Procesamiento de Imágenes
+[Link acá](https://t.me/joinchat/GeY84RuC3qRL0FWgp0Hd2g)
+</div>
 
 
 </div>
