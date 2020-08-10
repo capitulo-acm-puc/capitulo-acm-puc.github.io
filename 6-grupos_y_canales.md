@@ -212,6 +212,10 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/GeY84RuC3qRL0FWgp0Hd2g)
 </div>
 
+<div class="grupo">
+## IIC2173 Sistemas de Información
+[Link acá](https://t.me/joinchat/CVrRARvuI1UbzI39mnMXGg)
+</div>
 
 </div>
 
