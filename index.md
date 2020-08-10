@@ -11,8 +11,9 @@ title: Acerca de nosotros
 
 **Mail**: helloworld@ing.puc.cl
 
+**Grupo de Telegram**. [https://t.me/joinchat/BaYzAD5toNVfgYesMUao2Q](https://t.me/joinchat/BaYzAD5toNVfgYesMUao2Q) 
 
-## Directiva
+## Directiva (Por actualizar)
 
 **Presidente**: Gabriel Faundez
 
