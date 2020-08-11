@@ -72,73 +72,13 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 # Grupos por ramo
  
 <div class="grupo">
-## IC3745 Testing
-[Link acá](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
-</div>
-  
-<div class="grupo">
-## IIC2523 Sistemas Distribuidos
-[Link acá](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
-</div>
-
-<div class="grupo">
-## IIC2143 Ingeniería de Software
-[Link acá](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
-</div>
-
-<div class="grupo">
-## IIC2513 [Web] Tecnologías y Aplicaciones Web
-[Link acá](https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw)
-</div>
-
-<div class="grupo">
 ## IIC1253 Matemáticas Discretas
 [Link acá](https://t.me/joinchat/H0vd5xE-2PKI9HmjLvl6PQ)
 </div>
-  
-<div class="grupo">
-## IIC2433 Minería de Datos
-[Link acá](https://t.me/joinchat/HFM3CU8fPzKJeS42CG6QKw)
-</div> 
 
 <div class="grupo">
-## IIC3633 [RecSys] Sistemas Recomendadores
-[Link acá](https://t.me/joinchat/HFM3CRUa1uhQWazhkjaXQw)
-</div> 
- 
-<div class="grupo">
-## IIC2133 [EDD] Estructuras de Datos y Algoritmos
-[Link acá](https://t.me/joinchat/GcQjGBdwpDoTKT1O1dHQuw)
-</div> 
-
-<div class="grupo">
-## IIC2283 Grupo de Diseño y Análisis de Algoritmos
-[Link acá](https://t.me/joinchat/GjG-PRbCNy2kUnfwbiRVgg)
-</div> 
-
-<div class="grupo">
-## IIC2343 Arquitectura de Computadores 
-[Link acá](https://t.me/joinchat/KOKrZhT8EVZK5CNmxWZfTg)
-</div> 
-  
-<div class="grupo">
-## IIC2333 [SSOO] Sistemas operativos y redes
-[Link acá](https://t.me/joinchat/GjG-PRPFPZOVG2MNQus0-Q)
-</div>   
-  
-<div class="grupo">
-## IIC2223 [Autómatas]	Teoría de Autómatas y Lenguajes Formales
-[Link acá](https://t.me/joinchat/CogUgBTfxRlZRxWOwze7Sw)
-</div> 
-
-<div class="grupo">
-## IIC2613 [IA] Inteligencia Artificial
-[Link acá](https://t.me/joinchat/GjG-PRPjOUuL35-amWV0GQ)
-</div> 
- 
-<div class="grupo">
-## IIC2173 Arquitectura de Sistemas de Software
-[Link acá](https://t.me/joinchat/GeR-5BX3vfvsGXdJKyl-cg)
+## IC2026	[Infovis] Visualización de Información
+[Link acá](https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA)
 </div> 
 
 <div class="grupo">
@@ -147,30 +87,23 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div> 
 
 <div class="grupo">
-## IC2026	[Infovis] Visualización de Información
-[Link acá](https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA)
+## IIC2133 [EDD] Estructuras de Datos y Algoritmos
+[Link acá](https://t.me/joinchat/GcQjGBdwpDoTKT1O1dHQuw)
 </div> 
 
 <div class="grupo">
-## IIC3113 [GPTI] Gestión de Proyectos de Tecnologías de Información
-[Link acá](https://t.me/joinchat/HFM3CU8X1aGKJoSp3rTxlA)
+## IIC2143 Ingeniería de Software
+[Link acá](https://t.me/joinchat/Hmv11BWGcowgyQgQe17j4w)
 </div>
-
-<div class="grupo">
-## EYP2114 Inferencia Estadística
-[Link acá](https://t.me/joinchat/HFM3CU8a2Yd1KIdoWCegzQ)
-</div> 
-
 
 <div class="grupo">
 ## IIC2154 [Capstone] Proyecto de Especialidad
 [Link acá](https://t.me/joinchat/HFM3CUszyPvogelRRouckA)
 </div> 
 
-
 <div class="grupo">
-## IIC3143 Desarrollo de Software
-[Link acá](https://t.me/joinchat/Mr57shhLwKBhnPRiFwNbqg)
+## IIC2173 Arquitectura de Sistemas de Software
+[Link acá](https://t.me/joinchat/GeR-5BX3vfvsGXdJKyl-cg)
 </div> 
 
 <div class="grupo">
@@ -178,16 +111,30 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/GjG-PRasCDP72Wj_3rL2TQ)
 </div> 
 
+<div class="grupo">
+## IIC2233 Programación Avanzada
+[Link acá](https://t.me/joinchat/QBKKDEsNN3_MPz8FaBzDrA)
+</div>
 
 <div class="grupo">
-## IIC3253 [Cripto] Criptografía y Seguridad Computacional
-[Link acá](https://t.me/joinchat/GjG-PRsRo9s53PTsTh6NOg)
+## IIC2223 [Autómatas]	Teoría de Autómatas y Lenguajes Formales
+[Link acá](https://t.me/joinchat/CogUgBTfxRlZRxWOwze7Sw)
 </div> 
 
 <div class="grupo">
-## IIC3724 o IEE3724 Reconocimiento de Patrones
-[Link acá](https://t.me/joinchat/CLF1HRhLmmYM0lH5sN6pQQ)
-</div>
+## IIC2283 Grupo de Diseño y Análisis de Algoritmos
+[Link acá](https://t.me/joinchat/GjG-PRbCNy2kUnfwbiRVgg)
+</div> 
+
+<div class="grupo">
+## IIC2333 [SSOO] Sistemas operativos y redes
+[Link acá](https://t.me/joinchat/GjG-PRPFPZOVG2MNQus0-Q)
+</div>  
+
+<div class="grupo">
+## IIC2343 Arquitectura de Computadores 
+[Link acá](https://t.me/joinchat/KOKrZhT8EVZK5CNmxWZfTg)
+</div> 
 
 <div class="grupo">
 ## IIC2413 Bases de Datos
@@ -195,40 +142,84 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div>
 
 <div class="grupo">
-## IIC2764 [CCT] Conocimiento, Cultura y Tecnología
-[Link acá](https://t.me/joinchat/LApw1hqrFxxOMvdWUylCYA)
-</div>
-
+## IIC2433 Minería de Datos
+[Link acá](https://t.me/joinchat/HFM3CU8fPzKJeS42CG6QKw)
+</div> 
 
 <div class="grupo">
-## IIC3697 [Deep Learning - DL] Aprendizaje Profundo
-[Link acá](https://t.me/joinchat/ILQXqhO8Q0rkkxCk_yngsw)
+## IIC2513 [Web] Tecnologías y Aplicaciones Web
+[Link acá](https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw)
 </div>
 
+<div class="grupo">
+## IIC2523 Sistemas Distribuidos
+[Link acá](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
+</div>
+
+<div class="grupo">
+## IIC2613 [IA] Inteligencia Artificial
+[Link acá](https://t.me/joinchat/GjG-PRPjOUuL35-amWV0GQ)
+</div> 
+
+<div class="grupo">
+## IIC2713 Sistemas de Información
+[Link acá](https://t.me/joinchat/CVrRARvuI1UbzI39mnMXGg)
+</div>
 
 <div class="grupo">
 ## IIC2714 o IEE2714 Fundamentos de Procesamiento de Imágenes
 [Link acá](https://t.me/joinchat/GeY84RuC3qRL0FWgp0Hd2g)
 </div>
 
-
 <div class="grupo">
-## IIC2233 Programación Avanzada
-[Link acá](https://t.me/joinchat/QBKKDEsNN3_MPz8FaBzDrA)
+## IIC2764 [CCT] Conocimiento, Cultura y Tecnología
+[Link acá](https://t.me/joinchat/LApw1hqrFxxOMvdWUylCYA)
 </div>
 
-
 <div class="grupo">
-## IIC2173 Sistemas de Información
-[Link acá](https://t.me/joinchat/CVrRARvuI1UbzI39mnMXGg)
+## IIC3113 [GPTI] Gestión de Proyectos de Tecnologías de Información
+[Link acá](https://t.me/joinchat/HFM3CU8X1aGKJoSp3rTxlA)
 </div>
 
+<div class="grupo">
+## IIC3143 Desarrollo de Software
+[Link acá](https://t.me/joinchat/Mr57shhLwKBhnPRiFwNbqg)
+</div> 
 
+<div class="grupo">
+## IIC3253 [Cripto] Criptografía y Seguridad Computacional
+[Link acá](https://t.me/joinchat/GjG-PRsRo9s53PTsTh6NOg)
+</div> 
+
+<div class="grupo">
+## IIC3633 [RecSys] Sistemas Recomendadores
+[Link acá](https://t.me/joinchat/HFM3CRUa1uhQWazhkjaXQw)
+</div> 
 
 <div class="grupo">
 ## IIC3686 Creación de videojuegos
 [Link acá](https://t.me/joinchat/I0y-GhonQvb41eXAc286lg)
 </div>
+
+<div class="grupo">
+## IIC3697 [Deep Learning - DL] Aprendizaje Profundo
+[Link acá](https://t.me/joinchat/ILQXqhO8Q0rkkxCk_yngsw)
+</div>
+
+<div class="grupo">
+## IIC3724 o IEE3724 Reconocimiento de Patrones
+[Link acá](https://t.me/joinchat/CLF1HRhLmmYM0lH5sN6pQQ)
+</div>
+
+<div class="grupo">
+## IC3745 Testing
+[Link acá](https://t.me/joinchat/Mr57shbDR_Tw-lEDFeiX5Q)
+</div>
+  
+<div class="grupo">
+## EYP2114 Inferencia Estadística
+[Link acá](https://t.me/joinchat/HFM3CU8a2Yd1KIdoWCegzQ)
+</div> 
 
 
 </div>
