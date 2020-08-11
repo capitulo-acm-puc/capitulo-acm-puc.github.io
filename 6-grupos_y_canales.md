@@ -223,6 +223,14 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/CVrRARvuI1UbzI39mnMXGg)
 </div>
 
+
+
+<div class="grupo">
+## IIC3686 Creación de videojuegos
+[Link acá](https://t.me/joinchat/I0y-GhonQvb41eXAc286lg)
+</div>
+
+
 </div>
 
 
