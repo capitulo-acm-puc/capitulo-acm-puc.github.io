@@ -206,11 +206,17 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div>
 
 
-
 <div class="grupo">
 ## IIC2714 o IEE2714 Fundamentos de Procesamiento de Imágenes
 [Link acá](https://t.me/joinchat/GeY84RuC3qRL0FWgp0Hd2g)
 </div>
+
+
+<div class="grupo">
+## IIC2233 Programación Avanzada
+[Link acá](https://t.me/joinchat/QBKKDEsNN3_MPz8FaBzDrA)
+</div>
+
 
 <div class="grupo">
 ## IIC2173 Sistemas de Información
