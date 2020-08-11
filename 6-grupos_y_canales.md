@@ -221,6 +221,10 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 [Link acá](https://t.me/joinchat/HFM3CU8a2Yd1KIdoWCegzQ)
 </div> 
 
+<div class="grupo">
+## IIC3432 Tópicos Avanzados en Bases de Daos
+[Link acá](https://t.me/joinchat/FG3F8Bhlt_X1b5CGDzWS_Q)
+
 
 </div>
 
