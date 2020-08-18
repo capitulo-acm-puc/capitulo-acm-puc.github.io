@@ -42,7 +42,7 @@ Grupo con todos los alumnos del Major de computación.
 ## Civil Computación
 Grupo para alumnos que desean ir por el título de Civil Computación
   
-**Link**: [https://t.me/joinchat/EhZ0Igo3nTwVAR5zkRnGBw](https://t.me/joinchat/EhZ0Igo3nTwVAR5zkRnGBw)
+**Link**: [https://t.me/joinchat/CogUgExr_bdU_w1Yr-LVhw](https://t.me/joinchat/CogUgExr_bdU_w1Yr-LVhw)
 </div>
 
 <div class="grupo">
