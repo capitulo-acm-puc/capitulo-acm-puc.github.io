@@ -14,7 +14,7 @@ permalink: /grupos/
 ## Grupo del Capítulo ACM.
 Interesado en participar o saber más del capítulo? Uneté a nuestro chat!
   
-**Link**: [https://t.me/joinchat/BaYzAD5toNVfgYesMUao2Q](https://t.me/joinchat/BaYzAD5toNVfgYesMUao2Q) 
+**Link**: [https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA](https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA) 
 </div>
 
 <div class="grupo">
