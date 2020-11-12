@@ -62,7 +62,7 @@ Grupo para hablar de cualquier cosa random y poder mandar mensajes de forma anó
 <div class="grupo">
 ## DCConfesiones-adminless:
 Advertencia, el grupo permite confesiones de todo tipo, sin censura.
-**Link**: [https://t.me/DCConfesionesAdminless](https://t.me/DCConfesionesAdminless)
+**Link**: [https://t.me/DCConfesionesAdminless](https://t.me/joinchat/Hmv11ElWQlTxAQ94xlH_Dg)
 
 </div>
 
