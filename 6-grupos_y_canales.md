@@ -63,9 +63,31 @@ Grupo para hablar de cualquier cosa random y poder mandar mensajes de forma anó
 ## DCConfesiones-adminless:
 Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 **Link**: [https://t.me/DCConfesionesAdminless](https://t.me/joinchat/Hmv11ElWQlTxAQ94xlH_Dg)
-
 </div>
 
+<div class="grupo">
+## DCCasino:
+Saca tu lado ludópata. Hay torneos de penales, se juega a las máquinas tragamonedas y apuestas con SATs.
+**Link**: [https://t.me/joinchat/Hmv11B1wIpPkJpnv8-qT_g](https://t.me/joinchat/Hmv11B1wIpPkJpnv8-qT_g)
+</div>
+
+<div class="grupo">
+## DCCocina:
+Saca tu pasión _gourmet_ y comparte con otros aficionados a la cocina.
+**Link**: [https://t.me/joinchat/Dv4rfh1_ox3faWExyeTqVA](https://t.me/joinchat/Dv4rfh1_ox3faWExyeTqVA)
+</div>
+
+<div class="grupo">
+## DCConsola:
+Se organizan sesiones de juego grupales, se habla de videojuegos, etc. Hay servidor de discord.
+**Link**: [https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog](https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog)
+</div>
+
+<div class="grupo">
+## DCChess:
+Ajedrez en el DCC. ¿Qué puede ser mejor? Muchas cosas, pero si te gusta el ajedrez, ¡únete!
+**Link**: [https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw](https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw)
+</div>
 </div>
 
 <div class="grupo">
