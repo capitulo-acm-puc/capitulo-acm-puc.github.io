@@ -247,9 +247,9 @@ Ajedrez en el DCC. ¿Qué puede ser mejor? Muchas cosas, pero si te gusta el aje
 ## IIC3432 Tópicos Avanzados en Bases de Daos
 [Link acá](https://t.me/joinchat/FG3F8Bhlt_X1b5CGDzWS_Q)
 
-
 </div>
 
+</div>
 
 
 <div class="grupo">
@@ -271,9 +271,6 @@ Planilla con comentarios sobre los cursos
 Tu próximo trabajo/empleado te espera acá!
 **Link**:  [Click acá](https://t.me/DCCEmpleo)
 </div>  
- 
- 
- 
  
 </div> 
 
