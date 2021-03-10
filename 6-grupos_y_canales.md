@@ -88,6 +88,16 @@ Se organizan sesiones de juego grupales, se habla de videojuegos, etc. Hay servi
 Ajedrez en el DCC. ¿Qué puede ser mejor? Muchas cosas, pero si te gusta el ajedrez, ¡únete!
 **Link**: [https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw](https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw)
 </div>
+
+<div class="grupo">
+## DCCompra/Venta 💰:
+Grupo de Compra y Venta de artículos
+**Link**: [https://t.me/joinchat/7yYFsY17gP4wNmMx](https://t.me/joinchat/7yYFsY17gP4wNmMx)
+</div>
+
+
+
+
 </div>
 
 <div class="grupo">
@@ -271,6 +281,7 @@ Planilla con comentarios sobre los cursos
 Tu próximo trabajo/empleado te espera acá!
 **Link**:  [Click acá](https://t.me/DCCEmpleo)
 </div>  
+
  
 </div> 
 
