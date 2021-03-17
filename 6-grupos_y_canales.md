@@ -256,13 +256,18 @@ Grupo de Compra y Venta de artículos
 <div class="grupo">
 ## IIC3432 Tópicos Avanzados en Bases de Daos
 [Link acá](https://t.me/joinchat/FG3F8Bhlt_X1b5CGDzWS_Q)
+</div> 
 
 <div class="grupo">
 ## IIC3585 Diseño Avanzado de Aplicaciones Web
 [Link acá](https://t.me/joinchat/08E19b5gEYRiZmEx)
+</div> 
 
+<div class="grupo">
+## IIC3703 - Gestión de Operaciones TI
+[Link acá](https://t.me/joinchat/yNwJ3a6jxQpmNTZh)
+</div> 
 
- 
 
 </div>
 
