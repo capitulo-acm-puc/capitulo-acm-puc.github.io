@@ -271,8 +271,6 @@ Grupo de Compra y Venta de artículos
 
 </div>
 
-</div>
-
 
 <div class="grupo">
 # Otros links de interes
