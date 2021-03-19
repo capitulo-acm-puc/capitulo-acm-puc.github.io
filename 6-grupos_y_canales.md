@@ -62,36 +62,42 @@ Grupo para hablar de cualquier cosa random y poder mandar mensajes de forma anó
 <div class="grupo">
 ## DCConfesiones-adminless:
 Advertencia, el grupo permite confesiones de todo tipo, sin censura.
+  
 **Link**: [https://t.me/DCConfesionesAdminless](https://t.me/joinchat/Hmv11ElWQlTxAQ94xlH_Dg)
 </div>
 
 <div class="grupo">
 ## DCCasino:
 Saca tu lado ludópata. Hay torneos de penales, se juega a las máquinas tragamonedas y apuestas con SATs.
+  
 **Link**: [https://t.me/joinchat/Hmv11B1wIpPkJpnv8-qT_g](https://t.me/joinchat/Hmv11B1wIpPkJpnv8-qT_g)
 </div>
 
 <div class="grupo">
 ## DCCocina:
 Saca tu pasión _gourmet_ y comparte con otros aficionados a la cocina.
+  
 **Link**: [https://t.me/joinchat/Dv4rfh1_ox3faWExyeTqVA](https://t.me/joinchat/Dv4rfh1_ox3faWExyeTqVA)
 </div>
 
 <div class="grupo">
 ## DCConsola:
 Se organizan sesiones de juego grupales, se habla de videojuegos, etc. Hay servidor de discord.
+  
 **Link**: [https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog](https://t.me/joinchat/CogUgEqMORV4ddTpfQhOog)
 </div>
 
 <div class="grupo">
 ## DCChess:
 Ajedrez en el DCC. ¿Qué puede ser mejor? Muchas cosas, pero si te gusta el ajedrez, ¡únete!
+  
 **Link**: [https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw](https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw)
 </div>
 
 <div class="grupo">
 ## DCCompra/Venta 💰:
 Grupo de Compra y Venta de artículos
+  
 **Link**: [https://t.me/joinchat/7yYFsY17gP4wNmMx](https://t.me/joinchat/7yYFsY17gP4wNmMx)
 </div>
 
@@ -283,12 +289,14 @@ Grupo de Compra y Venta de artículos
 <div class="grupo">
 ## DCComentarios
 Planilla con comentarios sobre los cursos
+  
 **Link**:  [Click acá](https://docs.google.com/spreadsheets/d/1z2K-a6hD_Xck_R_BXM9e_-rmx8G7c08fc9FcsgVe0M8/edit?usp=sharing)
 </div>  
   
 <div class="grupo">
 ## DCCEmpleo
 Tu próximo trabajo/empleado te espera acá!
+  
 **Link**:  [Click acá](https://t.me/DCCEmpleo)
 </div>  
 
