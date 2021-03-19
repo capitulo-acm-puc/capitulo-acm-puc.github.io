@@ -6,8 +6,8 @@ permalink: /profesores/
 ---
 # Profesores
 
-- Marcelo Arenas: [página personal](http://marenas.sitios.ing.uc.cl/) y [página de la univerisidad](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/)
-- Jorge Baier: [página personal](http://saturno.ing.puc.cl/jorge/) y [página de la univerisidad](https://www.ing.uc.cl/academicos-e-investigadores/jorge-andres-baier-aranda/)
+- Marcelo Arenas: [página personal](https://marceloarenas.cl/) y [página de la universidad](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/)
+- Jorge Baier: [página personal](https://jabaier.sitios.ing.uc.cl/) y [página de la universidad](https://www.ing.uc.cl/academicos-e-investigadores/jorge-andres-baier-aranda/)
 
 
 - [Yadran Eterovic](https://www.ing.uc.cl/academicos-e-investigadores/yadran-francisco-eterovic-solano/)
