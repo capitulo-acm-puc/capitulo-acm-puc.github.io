@@ -11,7 +11,7 @@ title: Acerca de nosotros
 
 **Mail**: helloworld@ing.puc.cl
 
-**Grupo de Telegram**. [https://t.me/joinchat/BaYzAD5toNVfgYesMUao2Q](https://t.me/joinchat/BaYzAD5toNVfgYesMUao2Q) 
+**Grupo de Telegram**. [https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA](https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA) 
 
 ## Directiva (Por actualizar)
 
