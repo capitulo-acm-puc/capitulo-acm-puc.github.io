@@ -126,7 +126,7 @@ Grupo de Compra y Venta de artículos
 
 <div class="grupo">
 ## IIC2133 [EDD] Estructuras de Datos y Algoritmos
-[Link acá](https://t.me/joinchat/GcQjGBdwpDoTKT1O1dHQuw)
+[Link acá](https://t.me/joinchat/25_MJQRMPgIxM2Yx)
 </div> 
 
 <div class="grupo">
