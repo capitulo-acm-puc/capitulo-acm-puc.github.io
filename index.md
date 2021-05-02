@@ -13,15 +13,15 @@ title: Acerca de nosotros
 
 **Grupo de Telegram**. [https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA](https://t.me/joinchat/BaYzAD5toNUmDffhGeCdJA) 
 
-## Directiva (Por actualizar)
+## Directiva
 
-**Presidente**: Gabriel Faundez
+**Presidente**: Nicolás Berríos
 
-**Vice-presidenta**: Belén Fuster
+**Vice-presidenta**: Orlando Avendaño
 
-**Secretario**: Fernando Pieressa
+**Secretario**: Elías Sabja
 
-**Tesorero**: Ignacio Hermosilla
+**Tesorero**: Lucas Muñoz
 
 
 
