@@ -23,6 +23,13 @@ Canal oficial para los alumnos y profesores del Departamento de la Ciencia de la
   
 **Link**: [https://t.me/DCC_UC](https://t.me/DCC_UC)
 </div>
+  
+<div class="grupo">
+## DCCAcademic
+Grupo para compartir ofertas académicas o estudiantiles a nivel de pregrado o posterior.
+  
+**Link**: [https://t.me/joinchat/lNV5FuTvkddjMzU5](https://t.me/joinchat/lNV5FuTvkddjMzU5)
+</div>
 
 </div>
 
