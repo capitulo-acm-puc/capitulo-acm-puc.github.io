@@ -123,7 +123,7 @@ Grupo de Compra y Venta de artículos
 
 <div class="grupo">
 ## IC2026	[Infovis] Visualización de Información
-[Link acá](https://t.me/joinchat/GeR-5BU9KrdcAdycl7HbJA)
+[Link acá](https://t.me/joinchat/LKlvHpQ7LkY4NzBh)
 </div> 
 
 <div class="grupo">
@@ -188,7 +188,7 @@ Grupo de Compra y Venta de artículos
 
 <div class="grupo">
 ## IIC2433 Minería de Datos
-[Link acá](https://t.me/joinchat/HFM3CU8fPzKJeS42CG6QKw)
+[Link acá](https://t.me/joinchat/NYaaUVuoIgdmOTJh)
 </div> 
 
 <div class="grupo">
@@ -263,7 +263,7 @@ Grupo de Compra y Venta de artículos
   
 <div class="grupo">
 ## EYP2114 Inferencia Estadística
-[Link acá](https://t.me/joinchat/HFM3CU8a2Yd1KIdoWCegzQ)
+[Link acá](https://t.me/joinchat/3hRaHQ_gbHs4OWRh)
 </div> 
 
 <div class="grupo">
