@@ -280,7 +280,11 @@ Grupo de Compra y Venta de artículos
 ## IIC3703 - Gestión de Operaciones TI
 [Link acá](https://t.me/joinchat/yNwJ3a6jxQpmNTZh)
 </div> 
-
+  
+<div class="grupo">
+## IIC3752 - Tecnologías para Inteligencia de Negocios
+[Link acá](https://t.me/joinchat/QLZh2xJc3Bo4NzVh)
+</div> 
 
 </div>
 
