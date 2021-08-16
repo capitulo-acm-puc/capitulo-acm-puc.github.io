@@ -292,6 +292,11 @@ Grupo de Compra y Venta de artículos
 ## IIC3724 o IEE3724 Reconocimiento de Patrones
 [Link acá](https://t.me/joinchat/CLF1HRhLmmYM0lH5sN6pQQ)
 </div>
+  
+<div class="grupo">
+## IIC3743 Estrategias y Tecnologías de la Información 
+[Link acá](https://t.me/joinchat/4JBXuX49XYBhM2Yx)
+</div>
 
 <div class="grupo">
 ## IC3745 Testing
