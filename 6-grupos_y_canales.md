@@ -217,6 +217,11 @@ Grupo de Compra y Venta de artículos
 </div>
 
 <div class="grupo">
+## IIC2733 - Modelos de Procesos
+[Link acá](https://t.me/IIC2733)
+</div>
+  
+<div class="grupo">
 ## IIC2764 [CCT] Conocimiento, Cultura y Tecnología
 [Link acá](https://t.me/joinchat/LApw1hqrFxxOMvdWUylCYA)
 </div>
@@ -237,6 +242,16 @@ Grupo de Compra y Venta de artículos
 </div> 
 
 <div class="grupo">
+## IIC3432 Tópicos Avanzados en Bases de Daos
+[Link acá](https://t.me/joinchat/FG3F8Bhlt_X1b5CGDzWS_Q)
+</div> 
+  
+<div class="grupo">
+## IIC3585 Diseño Avanzado de Aplicaciones Web
+[Link acá](https://t.me/joinchat/08E19b5gEYRiZmEx)
+</div> 
+  
+<div class="grupo">
 ## IIC3633 [RecSys] Sistemas Recomendadores
 [Link acá](https://t.me/joinchat/HFM3CRUa1uhQWazhkjaXQw)
 </div> 
@@ -250,6 +265,11 @@ Grupo de Compra y Venta de artículos
 ## IIC3697 [Deep Learning - DL] Aprendizaje Profundo
 [Link acá](https://t.me/joinchat/ILQXqhO8Q0rkkxCk_yngsw)
 </div>
+  
+<div class="grupo">
+## IIC3703 Gestión de Operaciones TI
+[Link acá](https://t.me/joinchat/yNwJ3a6jxQpmNTZh)
+</div> 
 
 <div class="grupo">
 ## IIC3724 o IEE3724 Reconocimiento de Patrones
@@ -262,28 +282,14 @@ Grupo de Compra y Venta de artículos
 </div>
   
 <div class="grupo">
-## EYP2114 Inferencia Estadística
-[Link acá](https://t.me/joinchat/3hRaHQ_gbHs4OWRh)
-</div> 
-
-<div class="grupo">
-## IIC3432 Tópicos Avanzados en Bases de Daos
-[Link acá](https://t.me/joinchat/FG3F8Bhlt_X1b5CGDzWS_Q)
-</div> 
-
-<div class="grupo">
-## IIC3585 Diseño Avanzado de Aplicaciones Web
-[Link acá](https://t.me/joinchat/08E19b5gEYRiZmEx)
-</div> 
-
-<div class="grupo">
-## IIC3703 - Gestión de Operaciones TI
-[Link acá](https://t.me/joinchat/yNwJ3a6jxQpmNTZh)
-</div> 
-  
-<div class="grupo">
 ## IIC3752 - Tecnologías para Inteligencia de Negocios
 [Link acá](https://t.me/joinchat/QLZh2xJc3Bo4NzVh)
+</div> 
+   
+  
+<div class="grupo">
+## EYP2114 Inferencia Estadística
+[Link acá](https://t.me/joinchat/3hRaHQ_gbHs4OWRh)
 </div> 
 
 </div>
