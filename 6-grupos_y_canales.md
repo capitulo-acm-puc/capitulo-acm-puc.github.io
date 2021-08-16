@@ -200,6 +200,11 @@ Grupo de Compra y Venta de artículos
 ## IIC2523 Sistemas Distribuidos
 [Link acá](https://t.me/joinchat/Hmv11BdJJI1_aPuoF_FSow)
 </div>
+  
+<div class="grupo">
+## IIC2553 Taller de Programación Competitiva II
+[Link acá](https://t.me/joinchat/BZnMkrwBkGdmOWM5)
+</div>
 
 <div class="grupo">
 ## IIC2613 [IA] Inteligencia Artificial
@@ -230,6 +235,18 @@ Grupo de Compra y Venta de artículos
 ## IIC3113 [GPTI] Gestión de Proyectos de Tecnologías de Información
 [Link acá](https://t.me/joinchat/HFM3CU8X1aGKJoSp3rTxlA)
 </div>
+  
+<div class="grupo">
+## IIC3113 [GPTI] Gestión de Proyectos de Tecnologías de Información
+[Link acá](https://t.me/joinchat/HFM3CU8X1aGKJoSp3rTxlA)
+</div>
+  
+  
+<div class="grupo">
+## IIC3103 Taller de Integración
+[Link acá](https://t.me/joinchat/sPXnPWhETxkzZGUx)
+</div>
+  
 
 <div class="grupo">
 ## IIC3143 Desarrollo de Software
