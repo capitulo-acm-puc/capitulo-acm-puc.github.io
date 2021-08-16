@@ -217,7 +217,7 @@ Grupo de Compra y Venta de artículos
 </div>
 
 <div class="grupo">
-## IIC2733 - Modelos de Procesos
+## IIC2733 Modelos de Procesos
 [Link acá](https://t.me/IIC2733)
 </div>
   
@@ -282,7 +282,7 @@ Grupo de Compra y Venta de artículos
 </div>
   
 <div class="grupo">
-## IIC3752 - Tecnologías para Inteligencia de Negocios
+## IIC3752 Tecnologías para Inteligencia de Negocios
 [Link acá](https://t.me/joinchat/QLZh2xJc3Bo4NzVh)
 </div> 
    
