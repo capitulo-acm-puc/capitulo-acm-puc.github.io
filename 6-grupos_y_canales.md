@@ -338,6 +338,13 @@ Tu próximo trabajo/empleado te espera acá!
   
 **Link**:  [Click acá](https://t.me/DCCEmpleo)
 </div>  
+  
+<div class="grupo">
+## DCC Discord Alfa
+Grupo de discord para compartir y estudiar con tus compañeros/as del DCC
+  
+**Link**:  [Click acá](https://discord.gg/w9f6KSBJ7Q)
+</div>  
 
  
 </div> 
