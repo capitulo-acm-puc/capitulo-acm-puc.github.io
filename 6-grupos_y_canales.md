@@ -277,6 +277,12 @@ Grupo de Compra y Venta de artículos
 ## IIC3686 Creación de videojuegos
 [Link acá](https://t.me/joinchat/I0y-GhonQvb41eXAc286lg)
 </div>
+  
+<div class="grupo">
+## IIC3692 Topicos Avanzados en Inteligencia Artificial
+[Link acá](https://t.me/joinchat/Wo9FiXq8M51jMjhh)
+</div>
+  
 
 <div class="grupo">
 ## IIC3697 [Deep Learning - DL] Aprendizaje Profundo
@@ -308,6 +314,8 @@ Grupo de Compra y Venta de artículos
 [Link acá](https://t.me/joinchat/QLZh2xJc3Bo4NzVh)
 </div> 
    
+  
+
   
 <div class="grupo">
 ## EYP2114 Inferencia Estadística
