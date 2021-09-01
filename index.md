@@ -17,7 +17,7 @@ title: Acerca de nosotros
 
 **Presidente**: Nicolás Berríos
 
-**Vice-presidenta**: Orlando Avendaño
+**Vice-presidente**: Orlando Avendaño
 
 **Secretario**: Elías Sabja
 
