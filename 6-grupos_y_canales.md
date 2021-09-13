@@ -63,7 +63,7 @@ Grupo para todos los alumnos que tienen inscrito el minor de _data science_.
 ## DCChilen't
 Grupo para todos los alumnos que quieran preguntar o conversar temas relacionados al intercambio
   
-**Link**: [https://t.me/joinchat/wkhos5ZxH4U1ZTE5)
+**Link**: [https://t.me/joinchat/wkhos5ZxH4U1ZTE5](https://t.me/joinchat/wkhos5ZxH4U1ZTE5)
 </div>
 
   
