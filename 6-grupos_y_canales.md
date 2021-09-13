@@ -58,7 +58,16 @@ Grupo para todos los alumnos que tienen inscrito el minor de _data science_.
   
 **Link**: [https://t.me/joinchat/DPHwIkmZl34cVI4yzwNBRg](https://t.me/joinchat/DPHwIkmZl34cVI4yzwNBRg)
 </div>
+  
+<div class="grupo">
+## DCChilen't
+Grupo para todos los alumnos que quieran preguntar o conversar temas relacionados al intercambio
+  
+**Link**: [https://t.me/joinchat/wkhos5ZxH4U1ZTE5)
+</div>
 
+  
+  
 <div class="grupo">
 ## DCConfesiones
 Grupo para hablar de cualquier cosa random y poder mandar mensajes de forma anónima. Idealmente confesiones.
