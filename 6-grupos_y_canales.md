@@ -192,7 +192,7 @@ Grupo de Compra y Venta de artículos
 
 <div class="grupo">
 ## IIC2413 Bases de Datos
-[Link acá](https://t.me/joinchat/T7YuJZzR2CpiNGEx)
+[Link acá](https://t.me/joinchat/oqK1gH5mSjgwNDAx)
 </div>
 
 <div class="grupo">
