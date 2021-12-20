@@ -202,7 +202,7 @@ Grupo de Compra y Venta de artículos
 
 <div class="grupo">
 ## IIC2513 [Web] Tecnologías y Aplicaciones Web
-[Link acá](https://t.me/joinchat/HFM3CUhD_Ww4PMKeTbC4bw)
+[Link acá](https://t.me/+v3xQBvYb1v4xMmEx)
 </div>
 
 <div class="grupo">
