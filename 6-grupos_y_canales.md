@@ -253,7 +253,7 @@ Grupo de Compra y Venta de artículos
   
 <div class="grupo">
 ## IIC3103 Taller de Integración
-[Link acá](https://t.me/joinchat/sPXnPWhETxkzZGUx)
+[Link acá](https://t.me/+oeEhf8mMI7ljNmRh)
 </div>
   
 
