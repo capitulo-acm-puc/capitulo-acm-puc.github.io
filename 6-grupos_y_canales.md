@@ -109,6 +109,13 @@ Ajedrez en el DCC. ¿Qué puede ser mejor? Muchas cosas, pero si te gusta el aje
   
 **Link**: [https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw](https://t.me/joinchat/H0vd50Z4xKgwrVf_6Efiiw)
 </div>
+  
+<div class="grupo">
+## DCCartón:
+Grupo para hablar temas sobre juegos de mesa 😁
+  
+**Link**: [https://t.me/+rq5yUknOXj4xZWFh](https://t.me/+rq5yUknOXj4xZWFh)
+</div>
 
 <div class="grupo">
 ## DCCompra/Venta 💰:
@@ -266,6 +273,11 @@ Grupo de Compra y Venta de artículos
 ## IIC3253 [Cripto] Criptografía y Seguridad Computacional
 [Link acá](https://t.me/joinchat/GjG-PRsRo9s53PTsTh6NOg)
 </div> 
+  
+<div class="grupo">
+## IIC3413 Implementación de Sistemas de Base de Datos	
+[Link acá](https://t.me/+uvQgYFTnhgk2Njcx)
+</div> 
 
 <div class="grupo">
 ## IIC3432 Tópicos Avanzados en Bases de Daos
@@ -323,8 +335,6 @@ Grupo de Compra y Venta de artículos
 [Link acá](https://t.me/joinchat/QLZh2xJc3Bo4NzVh)
 </div> 
    
-  
-
   
 <div class="grupo">
 ## EYP2114 Inferencia Estadística
