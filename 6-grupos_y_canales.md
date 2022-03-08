@@ -125,6 +125,12 @@ Grupo de Compra y Venta de artículos
 </div>
 
 
+<div class="grupo">
+## DCC-seminarios
+Grupo para informarse de los próximos seminarios en el DCC 
+  
+**Link**: [https://t.me/joinchat/7yYFsY17gP4wNmMx](https://t.me/joinchat/7yYFsY17gP4wNmMx)
+</div>
 
 
 </div>
