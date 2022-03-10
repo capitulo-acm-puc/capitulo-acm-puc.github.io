@@ -129,7 +129,7 @@ Grupo de Compra y Venta de artículos
 ## DCC-seminarios
 Grupo para informarse de los próximos seminarios en el DCC 
   
-**Link**: [https://t.me/joinchat/7yYFsY17gP4wNmMx](https://t.me/joinchat/7yYFsY17gP4wNmMx)
+**Link**: [https://t.me/DCCseminarios](https://t.me/DCCseminarios)
 </div>
 
 
