@@ -83,6 +83,15 @@ Advertencia, el grupo permite confesiones de todo tipo, sin censura.
 </div>
 
 <div class="grupo">
+## DCChannnn:
+Saca tu lado otaku. Habla de lo que quieras sobre anime, mangas, juegos japoneses, novelas ligeras, etc.
+  
+**Link**: [https://t.me/DCChannnn](https://t.me/DCChannnn)
+</div>
+
+
+  
+<div class="grupo">
 ## DCCasino:
 Saca tu lado ludópata. Hay torneos de penales, se juega a las máquinas tragamonedas y apuestas con SATs.
   
