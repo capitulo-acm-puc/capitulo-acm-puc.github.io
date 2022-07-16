@@ -363,8 +363,8 @@ Grupo para informarse de los próximos seminarios en el DCC
 # Otros links de interes
   
  <div class="grupo">
-## Drive con los Cursos del DCC
-**Link**: [Click acá](https://drive.google.com/drive/folders/0B04ryZ6JtcjwOWpoR1Q4QVdCYUU)
+## One drive con material de los cursos del DCC
+**Link**: [Click acá](https://bit.ly/dccursos_uc)
 </div>  
   
 <div class="grupo">
